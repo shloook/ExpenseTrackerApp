@@ -72,7 +72,8 @@ Licensed under the MIT License.
 ---
 
 # index.html (include this in your repo)
-
+```html
+<!DOCTYP
 <!DOCTYPE html>
 <html lang="en">
 <head>
